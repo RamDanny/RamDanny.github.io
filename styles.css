@@ -58,3 +58,69 @@ body {
 #terminal-input:focus {
     outline: none;
 }
+
+
+@media screen and (max-width: 600px) {
+    /* Styles for small screens */
+    body {
+        font-family: 'Courier New', monospace;
+        font-weight: 600;
+        background-color: #000;
+        color: #00ff00;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+    
+    #terminal {
+        padding: 0.5%;
+        border: 2px solid #00ff00;
+        border-radius: 5px;
+        background-color: #000;
+        width: 85%;
+        height: 80%;
+        overflow: auto;
+        white-space: pre-wrap;
+        line-height: 1;
+        position: relative;
+    }
+    
+    #terminal-top {
+        text-align: center;
+        height: 30%;
+        font-size: 5px;
+        padding: none;
+        line-height: normal;
+    }
+    
+    #input-line {
+        padding: none;
+        display: flex;
+        height: auto;
+        font-size: 5px;
+        line-height: 0%;
+    }
+    
+    #prompt {
+        color: #00ff00;
+        padding-right: 5px;
+    }
+    
+    #terminal-input {
+        background-color: transparent;
+        border: none;
+        color: #00ff00;
+        font-family: 'Courier New', monospace;
+        font-size: inherit;
+        font-weight: 600;
+        width: 60%;
+        outline: none;
+        padding: none;
+    }
+    
+    #terminal-input:focus {
+        outline: none;
+    }
+}
