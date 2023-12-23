@@ -19,7 +19,7 @@ body {
     height: 90%;
     overflow: auto;
     white-space: pre-wrap;
-    line-height: 0%;
+    line-height: 10%;
     position: relative;
 }
 
@@ -83,7 +83,7 @@ body {
         height: 85%;
         overflow: auto;
         white-space: pre-wrap;
-        line-height: 0%;
+        line-height: 10%;
         position: relative;
     }
     
