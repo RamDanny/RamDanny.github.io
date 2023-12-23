@@ -90,7 +90,7 @@ body {
     #terminal-top {
         text-align: center;
         height: 20%;
-        font-size: xx-small;
+        font-size: 5px;
         padding: none;
         line-height: normal;
     }
@@ -99,7 +99,6 @@ body {
         padding: none;
         display: flex;
         height: auto;
-        font-size: xx-small;
         line-height: 0%;
     }
     
