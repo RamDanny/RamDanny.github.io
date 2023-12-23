@@ -19,7 +19,7 @@ body {
     height: 90%;
     overflow: auto;
     white-space: pre-wrap;
-    line-height: 0.5;
+    line-height: 0%;
     position: relative;
 }
 
@@ -28,14 +28,14 @@ body {
     height: 10%;
     font-size: xx-small;
     padding: none;
-    line-height: normal;
+    line-height: 0.5;
 }
 
 #input-line {
     padding: none;
     display: flex;
     height: auto;
-    line-height: 0.85;
+    line-height: 0.5;
 }
 
 #prompt {
@@ -83,7 +83,7 @@ body {
         height: 85%;
         overflow: auto;
         white-space: pre-wrap;
-        line-height: 0.5;
+        line-height: 0%;
         position: relative;
     }
     
@@ -92,7 +92,7 @@ body {
         height: 20%;
         font-size: 5px;
         padding: none;
-        line-height: normal;
+        line-height: 0.5;
     }
     
     #input-line {
@@ -100,7 +100,7 @@ body {
         display: flex;
         height: auto;
         font-size: xx-small;
-        line-height: 0.85;
+        line-height: 0.5;
     }
     
     #prompt {
