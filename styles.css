@@ -19,7 +19,7 @@ body {
     height: 90%;
     overflow: auto;
     white-space: pre-wrap;
-    line-height: 1.5;
+    line-height: 0.5;
     position: relative;
 }
 
@@ -35,7 +35,7 @@ body {
     padding: none;
     display: flex;
     height: auto;
-    line-height: 1.5;
+    line-height: 0.85;
 }
 
 #prompt {
@@ -83,7 +83,7 @@ body {
         height: 85%;
         overflow: auto;
         white-space: pre-wrap;
-        line-height: 1.5;
+        line-height: 0.5;
         position: relative;
     }
     
@@ -100,7 +100,7 @@ body {
         display: flex;
         height: auto;
         font-size: xx-small;
-        line-height: 1.5;
+        line-height: 0.85;
     }
     
     #prompt {
