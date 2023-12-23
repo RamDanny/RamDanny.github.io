@@ -35,7 +35,7 @@ body {
     padding: none;
     display: flex;
     height: auto;
-    line-height: 0%;
+    line-height: 0.5;
 }
 
 #prompt {
@@ -106,6 +106,7 @@ body {
     #prompt {
         color: #00ff00;
         padding-right: 5px;
+        font-size: xx-small;
     }
     
     #terminal-input {
