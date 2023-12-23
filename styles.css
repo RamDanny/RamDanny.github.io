@@ -100,7 +100,7 @@ body {
         display: flex;
         height: auto;
         font-size: xx-small;
-        line-height: 0.5;
+        line-height: 0.6;
     }
     
     #prompt {
