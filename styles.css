@@ -79,18 +79,18 @@ body {
         border: 2px solid #00ff00;
         border-radius: 5px;
         background-color: #000;
-        width: 85%;
-        height: 80%;
+        width: 90%;
+        height: 85%;
         overflow: auto;
         white-space: pre-wrap;
-        line-height: 1;
+        line-height: 0.5;
         position: relative;
     }
     
     #terminal-top {
         text-align: center;
-        height: 30%;
-        font-size: 5px;
+        height: 20%;
+        font-size: xx-small;
         padding: none;
         line-height: normal;
     }
@@ -99,7 +99,7 @@ body {
         padding: none;
         display: flex;
         height: auto;
-        font-size: 5px;
+        font-size: xx-small;
         line-height: 0%;
     }
     
