@@ -75,9 +75,11 @@ My interests: Cybersecurity, AI, Full Stack, and any programming :)`;
 MELSS -- Student Intern -- Jul 2023 - Aug 2023`;
             break;
         case 'skills':
-            output_text = `Programming Languages: Python, C, Java, C++, HTML, CSS, JavaScript, SQL, Prolog
+            output_text = `Programming Languages: Python, C, Java, C++, SQL, JavaScript, HTML, CSS, Prolog
 
-Frameworks: SQLite, React, Node, TensorFlow, OpenCV, Flask, OpenGL, Discord API, Raylib`;
+Libraries and APIs: SQLite, TensorFlow, OpenCV, Flask, OpenGL, Discord, Raylib
+
+Frameworks: React, Android`;
             break;
         case 'projects':
             output_text = "Check out my projects on GitHub! http://github.com/RamDanny";
