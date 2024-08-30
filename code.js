@@ -65,9 +65,12 @@ cert        Certifications`;
         case 'about':
             output_text = `I am Ramdhanush,
 
-Software developer, Computer Science Undergrad
+Software developer, Computer Science Grad
 
-My interests: Cybersecurity, AI, Full Stack, and any programming :)`;
+My interests: Cybersecurity, AI, Full Stack, and any programming :)
+
+I am a Computer Science grad student at North Carolina State University.
+I also did my undergrad in Computer Science at SSN College of Engineering.`;
             break;
         case 'exp':
             output_text = `Citi -- Summer Analyst -- May 2023 - Jul 2023
@@ -92,7 +95,9 @@ A Fusion Approach for Web Search Result Diversification Using Machine Learning A
 Recent Trends in IoT as Part of Digital India - AI, IoT, and Blockchain Breakthroughs in E-Governance, IGI Global`;
             break;
         case 'cert':
-            output_text = `CS50x Intro to Programming - Harvard University
+            output_text = `Google Cybersecurity Certificate - Coursera
+
+CS50x Intro to Programming - Harvard University
 
 Ethical Hacking - NPTEL
 
