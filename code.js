@@ -70,6 +70,7 @@ Software developer, Computer Science Grad
 My interests: Cybersecurity, AI, Full Stack, and any programming :)
 
 I am a Computer Science grad student at North Carolina State University.
+
 I also did my undergrad in Computer Science at SSN College of Engineering.`;
             break;
         case 'exp':
