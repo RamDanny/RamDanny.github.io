@@ -74,16 +74,14 @@ I am a Computer Science grad student at North Carolina State University.
 I also did my undergrad in Computer Science at SSN College of Engineering.`;
             break;
         case 'exp':
-            output_text = `Citi -- Summer Analyst -- May 2023 - Jul 2023
+            output_text = `Citigroup -- Summer Analyst -- May 2023 - Jul 2023
 
 MELSS -- Student Intern -- Jul 2023 - Aug 2023`;
             break;
         case 'skills':
-            output_text = `Programming Languages: Python, C, Java, C++, SQL, JavaScript, HTML, CSS, Prolog
+            output_text = `Programming Languages: Python, C, C++, Java, SQL, Javascript, HTML, CSS, Bash, Prolog, ASM, Lua
 
-Libraries and APIs: SQLite, TensorFlow, OpenCV, Flask, OpenGL, Discord, Raylib
-
-Frameworks: React, Android`;
+Libraries and APIs: : SQLite, Raylib, Flask, Android Studio, MySQL, POSIX, Tensorflow, Keras, Numpy, Pandas, OpenGL, React, PyGame, NodeJS, MongoDB, Tomcat`;
             break;
         case 'projects':
             output_text = "Check out my projects on GitHub! http://github.com/RamDanny";
@@ -96,7 +94,9 @@ A Fusion Approach for Web Search Result Diversification Using Machine Learning A
 Recent Trends in IoT as Part of Digital India - AI, IoT, and Blockchain Breakthroughs in E-Governance, IGI Global`;
             break;
         case 'cert':
-            output_text = `Google Cybersecurity Certificate - Coursera
+            output_text = `CompTIA Security+ - CompTIA
+
+Google Cybersecurity Certificate - Coursera
 
 CS50x Intro to Programming - Harvard University
 
