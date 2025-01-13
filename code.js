@@ -81,7 +81,9 @@ MELSS -- Student Intern -- Jul 2023 - Aug 2023`;
         case 'skills':
             output_text = `Programming Languages: Python, C, C++, Java, SQL, Javascript, HTML, CSS, Bash, Prolog, ASM, Lua
 
-Libraries and APIs: : SQLite, Raylib, Flask, Android Studio, MySQL, POSIX, Tensorflow, Keras, Numpy, Pandas, OpenGL, React, PyGame, NodeJS, MongoDB, Tomcat`;
+Libraries and APIs: : SQLite, Raylib, Flask, Android Studio, MySQL, POSIX, Tensorflow, Keras, Numpy, Pandas, OpenGL, React, PyGame, NodeJS, MongoDB,
+
+Tomcat`;
             break;
         case 'projects':
             output_text = "Check out my projects on GitHub! http://github.com/RamDanny";
